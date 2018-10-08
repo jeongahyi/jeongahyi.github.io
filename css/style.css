@@ -168,7 +168,7 @@ body {
   margin-top: 20px;
   border: 1px solid #fff;
   border-radius: 3px;
-  background-color: #348ac7;
+  /* background-color: #348ac7; */
   /* background: radial-gradient(
     circle farthest-corner at left top,
     #7474bf 0,
@@ -321,6 +321,7 @@ body {
   padding: 0;
 }
 
+/* copyright section */
 .copyrightSection {
   background-color: #363b3f;
   color: #fff;
@@ -328,7 +329,19 @@ body {
 }
 
 .copyrightSection p {
-  margin: 0;
+  margin: 100;
+}
+
+.socialIcons {
+  font-size: 25px;
+}
+
+.socialIcons i {
+  color: #fff;
+}
+
+.socialIcons i:hover {
+  color: #ffc107;
 }
 
 /* navigation section */
