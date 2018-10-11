@@ -14,7 +14,7 @@ $(document).ready(function() {
 
   // title section
   var typed = new Typed(".typed", {
-    strings: ["Creater.", "Developer.", "Dreamer."],
+    strings: ["Creator.", "Developer.", "Dreamer."],
     typeSpeed: 70,
     bakcSpead: 5000,
     loop: true,
